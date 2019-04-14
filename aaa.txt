@@ -1,3 +1,7 @@
 hello branch
 
+<<<<<<< HEAD
 master ио xiugai file
+=======
+fz shang xiuai file
+>>>>>>> fz
